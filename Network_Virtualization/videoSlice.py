@@ -21,7 +21,6 @@ import os
 
 log = core.getLogger()
 
-
 class VideoSlice (EventMixin):
 
     def __init__(self):
